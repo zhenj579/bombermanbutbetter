@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a7ab62d5e884318479001d54a623d937
+guid: 8678b1a6454c71b41b27e47fd7ef49f6
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Karmatic Arcade
+  - ThaleahFat
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
